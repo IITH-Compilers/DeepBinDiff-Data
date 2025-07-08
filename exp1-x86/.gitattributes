@@ -1,0 +1,12 @@
+exp1-x86-coreutils.tar.gz.part_ak filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_aa filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_ac filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_ad filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_af filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_ag filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_ah filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_al filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_ab filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_ae filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_ai filter=lfs diff=lfs merge=lfs -text
+exp1-x86-coreutils.tar.gz.part_aj filter=lfs diff=lfs merge=lfs -text
