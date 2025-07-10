@@ -1,1 +1,5 @@
 exp4_x86_coreutils_part_ae filter=lfs diff=lfs merge=lfs -text
+exp4_x86_coreutils_part_ab filter=lfs diff=lfs merge=lfs -text
+exp4_x86_coreutils_part_ac filter=lfs diff=lfs merge=lfs -text
+exp4_x86_coreutils_part_ad filter=lfs diff=lfs merge=lfs -text
+exp4_x86_coreutils_part_aa filter=lfs diff=lfs merge=lfs -text
